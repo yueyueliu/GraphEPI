@@ -1,0 +1,16 @@
+# GraphEPI Requirements
+# Core deep learning
+torch>=2.0
+torch-geometric>=2.3
+
+# Data processing
+pandas>=1.5
+numpy>=1.23
+h5py>=3.8
+pyBigWig>=0.3
+pysam>=0.21
+pyfaidx>=0.7
+
+# Utilities
+tqdm>=4.65
+scikit-learn>=1.2
